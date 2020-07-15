@@ -1,0 +1,3 @@
+main.pbi: F:\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\io_macros.h \
+  F:\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\iostm8s003f3.h \
+  D:\workspaceSTM8\mysdcc_stm8\iarku8\main.c
